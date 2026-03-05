@@ -40,11 +40,10 @@ Crea un archivo  `.env`  y setea tus variables de entorno
 
 ## Ejecución
 
-0. **Carga de datos** 
-Descarga el parquet de Gaceta UNAM en:
+0. **Carga de datos** (Descarga el parquet de Gaceta UNAM en: [WIP])
 
-Colocalo en:
- ```bash 
+ ```bash
+ (Colocalo en:}
  /chroma_data/embeddings
  ```
 
