@@ -43,7 +43,8 @@ Crea un archivo  `.env`  y setea tus variables de entorno
 0. **Carga de datos** 
 Descarga el parquet de Gaceta UNAM en:
 
-Colocalo en ```bash 
+Colocalo en:
+ ```bash 
  /chroma_data/embeddings
  ```
 
