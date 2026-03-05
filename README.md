@@ -40,7 +40,7 @@ Crea un archivo  `.env`  y setea tus variables de entorno
 
 ## Ejecución
 
-0. **Carga de datos** (Descarga el parquet de Gaceta UNAM en: [WIP])
+0. **Carga de datos** (Descarga el parquet de Gaceta UNAM en: https://huggingface.co/datasets/ferMorales/Gaceta_UNAM_BGE_M3)
 
    ```bash
    # Colocalo en:
