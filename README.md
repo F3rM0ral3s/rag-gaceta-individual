@@ -43,7 +43,9 @@ Crea un archivo  `.env`  y setea tus variables de entorno
 0. **Carga de datos** 
 Descarga el parquet de Gaceta UNAM en:
 
-Colocalo en '''/chroma_data'''
+Colocalo en ```bash 
+ /chroma_data/embeddings
+ ```
 
 1. **Backend** (carga parquet en Chroma si la colección está vacía):
 
